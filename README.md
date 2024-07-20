@@ -1,1 +1,5 @@
 # planIt
+
+• Calendar
+• Polls
+• Comments
